@@ -1,0 +1,200 @@
+{
+    "ASP": [
+        "aspx"
+    ],
+    "C": [
+        "c",
+        "h"
+    ],
+    "C#": [
+        "cs"
+    ],
+    "C++": [
+        "cc",
+        "cpp",
+        "cxx",
+        "c++",
+        "h",
+        "hh",
+        "hpp",
+        "hxx",
+        "h++"
+    ],
+    "CSS": [
+        "css"
+    ],
+    "Clojure": [
+        "clj",
+        "cljs",
+        "cljc",
+        "edn"
+    ],
+    "Common Lisp": [
+        "lisp",
+        "lsp",
+        "l",
+        "cl",
+        "fasl"
+    ],
+    "Cuda": [
+        "cu"
+    ],
+    "E": [
+        "e"
+    ],
+    "Emacs Lisp": [
+        "el",
+        "elc"
+    ],
+    "Erlang": [
+        "erl",
+        "hrl"
+    ],
+    "F#": [
+        "fs",
+        "fsi",
+        "fsscript"
+    ],
+    "Fortran": [
+        "f",
+        "for",
+        "f90"
+    ],
+    "Go": [
+        "go"
+    ],
+    "Groovy": [
+        "groovy",
+        "gvy",
+        "gy",
+        "gsh"
+    ],
+    "HTML": [
+        "html",
+        "htm"
+    ],
+    "Haskell": [
+        "hs",
+        "lhs"
+    ],
+    "Java": [
+        "java",
+        "class",
+        "jar"
+    ],
+    "JavaScript": [
+        "js",
+        "mjs"
+    ],
+    "Julia": [
+        "jl"
+    ],
+    "Jupyter Notebook": [
+        "ipynb"
+    ],
+    "Lua": [
+        "lua"
+    ],
+    "MATLAB": [
+        "m",
+        "mat"
+    ],
+    "Mathematica": [
+        "m",
+        "nb",
+        "mt",
+        "cdf",
+        "mx",
+        "wl"
+    ],
+    "Matlab": [
+        "m",
+        "mat"
+    ],
+    "Mercury": [
+        "m"
+    ],
+    "OCaml": [
+        "ml",
+        "mli"
+    ],
+    "Objective-C": [
+        "h",
+        "m",
+        "mm",
+        "M"
+    ],
+    "PHP": [
+        "php",
+        "phtml",
+        "php3",
+        "php4",
+        "php5",
+        "php7",
+        "phps",
+        "php-s",
+        "pht",
+        "phar"
+    ],
+    "Perl": [
+        "pl",
+        "pm",
+        "xs",
+        "t",
+        "pod"
+    ],
+    "Prolog": [
+        "pl",
+        "pro",
+        "P"
+    ],
+    "Python": [
+        "py",
+        "pyi",
+        "pyc",
+        "pyd",
+        "pyo",
+        "pyw",
+        "pyz"
+    ],
+    "R": [
+        "r"
+    ],
+    "Ruby": [
+        "rb"
+    ],
+    "Rust": [
+        "rs",
+        "rlib"
+    ],
+    "Scala": [
+        "scala",
+        "sc"
+    ],
+    "Scilab": [
+        "sce"
+    ],
+    "Stan": [
+        "R",
+        "data"
+    ],
+    "Standard ML": [
+        "sml"
+    ],
+    "Swift": [
+        "swift"
+    ],
+    "TypeScript": [
+        "ts",
+        "tsx"
+    ],
+    "Verilog": [
+        "v",
+        "vh"
+    ],
+    "Visual Basic": [
+        "vb",
+        "vbg",
+        "vbp"
+    ]
+}
